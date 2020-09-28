@@ -25,11 +25,12 @@ namespace First
                         if (array[i, j] < min)
                         {
                             min = array[i, j];
-                            if (min > max)
-                                max = min;
+                           
                         }
                     }
-                    
+                    if (min > max)
+                        max = min;
+
                 }
                 return max;
             }
