@@ -1,0 +1,33 @@
+\\csfs\home$\pretkov_a_i\profile\my documents\visual studio 2010\Projects\Samples\Samples\bin\Debug\Samples.exe
+\\csfs\home$\pretkov_a_i\profile\my documents\visual studio 2010\Projects\Samples\Samples\bin\Debug\Samples.pdb
+\\csfs\home$\pretkov_a_i\profile\my documents\visual studio 2010\Projects\Samples\Samples\obj\x86\Debug\Samples.Form1.resources
+\\csfs\home$\pretkov_a_i\profile\my documents\visual studio 2010\Projects\Samples\Samples\obj\x86\Debug\Samples.Properties.Resources.resources
+\\csfs\home$\pretkov_a_i\profile\my documents\visual studio 2010\Projects\Samples\Samples\obj\x86\Debug\Samples.csproj.GenerateResource.Cache
+\\csfs\home$\pretkov_a_i\profile\my documents\visual studio 2010\Projects\Samples\Samples\obj\x86\Debug\Samples.exe
+\\csfs\home$\pretkov_a_i\profile\my documents\visual studio 2010\Projects\Samples\Samples\obj\x86\Debug\Samples.pdb
+G:\исит\Samples\Samples\obj\x86\Debug\Samples.exe
+G:\исит\Samples\Samples\obj\x86\Debug\Samples.pdb
+G:\исит\Samples\Samples\obj\x86\Debug\Samples.Form1.resources
+G:\исит\Samples\Samples\obj\x86\Debug\Samples.Properties.Resources.resources
+G:\исит\Samples\Samples\obj\x86\Debug\Samples.csproj.GenerateResource.Cache
+G:\исит\Samples\Samples\bin\Debug\Samples.exe
+G:\исит\Samples\Samples\bin\Debug\Samples.pdb
+G:\исит\Samples\Samples\obj\x86\Debug\Samples.csprojResolveAssemblyReference.cache
+F:\исит\Samples\Samples\obj\x86\Debug\Samples.csprojAssemblyReference.cache
+F:\исит\Samples\Samples\obj\x86\Debug\Samples.Form1.resources
+F:\исит\Samples\Samples\obj\x86\Debug\Samples.Properties.Resources.resources
+F:\исит\Samples\Samples\obj\x86\Debug\Samples.csproj.GenerateResource.cache
+F:\исит\Samples\Samples\obj\x86\Debug\Samples.csproj.CoreCompileInputs.cache
+F:\исит\Samples\Samples\obj\x86\Debug\Samples.exe
+F:\исит\Samples\Samples\obj\x86\Debug\Samples.pdb
+F:\исит\Samples\Samples\bin\Debug\Samples.exe
+F:\исит\Samples\Samples\bin\Debug\Samples.pdb
+\\csfs\home$\pretkov_a_i\Profile\My Documents\исит\Samples\Samples\obj\x86\Debug\Samples.exe
+\\csfs\home$\pretkov_a_i\Profile\My Documents\исит\Samples\Samples\obj\x86\Debug\Samples.pdb
+\\csfs\home$\pretkov_a_i\Profile\My Documents\исит\Samples\Samples\bin\Debug\Samples.exe
+\\csfs\home$\pretkov_a_i\Profile\My Documents\исит\Samples\Samples\bin\Debug\Samples.pdb
+\\csfs\home$\pretkov_a_i\Profile\My Documents\исит\Samples\Samples\obj\x86\Debug\Samples.csprojResolveAssemblyReference.cache
+\\csfs\home$\pretkov_a_i\Profile\My Documents\исит\Samples\Samples\obj\x86\Debug\Samples.Form1.resources
+\\csfs\home$\pretkov_a_i\Profile\My Documents\исит\Samples\Samples\obj\x86\Debug\Samples.Properties.Resources.resources
+\\csfs\home$\pretkov_a_i\Profile\My Documents\исит\Samples\Samples\obj\x86\Debug\Samples.Second.FormForSecondTask.resources
+\\csfs\home$\pretkov_a_i\Profile\My Documents\исит\Samples\Samples\obj\x86\Debug\Samples.csproj.GenerateResource.Cache
