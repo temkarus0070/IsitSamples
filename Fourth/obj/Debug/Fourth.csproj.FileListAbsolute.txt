@@ -1,0 +1,8 @@
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Fourth\obj\Debug\Fourth.csprojAssemblyReference.cache
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Fourth\obj\Debug\Fourth.FormForFourthTask.resources
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Fourth\obj\Debug\Fourth.csproj.GenerateResource.cache
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Fourth\obj\Debug\Fourth.csproj.CoreCompileInputs.cache
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Fourth\bin\Debug\Fourth.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Fourth\bin\Debug\Fourth.pdb
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Fourth\obj\Debug\Fourth.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Fourth\obj\Debug\Fourth.pdb

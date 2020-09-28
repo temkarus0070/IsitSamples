@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using First;
 
 namespace Samples
 {
@@ -25,6 +26,7 @@ namespace Samples
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
             First.FormForFirstTask form = new First.FormForFirstTask();
             form.Show();
         }
@@ -34,6 +36,10 @@ namespace Samples
 			form.Show();
 		}
 
-        
+        private void RunFourthBtn_Click(object sender, EventArgs e)
+        {
+            Fourth.FormForFourthTask form = new Fourth.FormForFourthTask();
+            form.Show();
+        }
     }
 }
