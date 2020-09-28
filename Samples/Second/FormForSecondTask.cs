@@ -40,8 +40,8 @@ namespace Samples.Second
 		void SaveBtnClick(object sender, EventArgs e)
 		{
 			saveFileDialog1.ShowDialog();
-			if(saveFileDialog1.FileName!="")
-				Second.StringWorker(path,saveFileDialog1.FileName)
+            if (saveFileDialog1.FileName != "")
+                Second.StringWorker.FileRewriter(path, saveFileDialog1.FileName);
 		}
 	}
 }

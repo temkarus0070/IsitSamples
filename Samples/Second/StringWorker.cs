@@ -8,7 +8,7 @@
  */
 using System;
 using System.IO;
-
+using System.Text;
 
 namespace Samples.Second
 {
@@ -22,14 +22,16 @@ namespace Samples.Second
 			var writer = new StreamWriter(outputPath);
 			var reader = new StreamReader(filePath);
 			var str = reader.ReadToEnd().Split(new char[]{'\n'});
+            var builder = new StringBuilder();
 			foreach(var fileString in str)
 			{
 				var numbersArray = fileString.Split(new char[]{' '});
 				foreach(var number in numbersArray)
 				{
-					writer.WriteLine("$number ");
+                    builder.Append($"{number} ");
 				}
 			}
+            writer.WriteLine(builder.ToString());
 			writer.Close();
 			reader.Close();
 			
