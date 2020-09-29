@@ -1,0 +1,11 @@
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForFourth\obj\Debug\FormForFourth.csprojAssemblyReference.cache
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForFourth\obj\Debug\Fourth.FormForFourthTask.resources
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForFourth\obj\Debug\FormForFourth.csproj.GenerateResource.cache
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForFourth\obj\Debug\FormForFourth.csproj.CoreCompileInputs.cache
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForFourth\bin\Debug\FormForFourth.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForFourth\bin\Debug\FormForFourth.pdb
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForFourth\bin\Debug\Fourth.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForFourth\bin\Debug\Fourth.pdb
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForFourth\obj\Debug\FormForFourth.csproj.CopyComplete
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForFourth\obj\Debug\FormForFourth.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForFourth\obj\Debug\FormForFourth.pdb

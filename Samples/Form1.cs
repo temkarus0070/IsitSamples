@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using First;
+using Second;
 
 namespace Samples
 {
@@ -32,7 +33,7 @@ namespace Samples
         }
 		void SecondRunBtnClick(object sender, EventArgs e)
 		{
-				Second.FormForSecondTask form = new Second.FormForSecondTask();
+				 FormForSecondTask form = new Second.FormForSecondTask();
 			form.Show();
 		}
 

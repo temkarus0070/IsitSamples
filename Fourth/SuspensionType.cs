@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Fourth
 {
-    enum SuspensionType
+   public enum SuspensionType
     {
         азимутальный,
         полярный,

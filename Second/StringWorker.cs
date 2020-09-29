@@ -26,9 +26,10 @@ namespace Second
 			foreach(var fileString in str)
 			{
 				var numbersArray = fileString.Split(new char[]{' '});
-				foreach(var number in numbersArray)
+				foreach(var subStr in numbersArray)
 				{
-                    builder.Append($"{number} ");
+                   if( !String.IsNullOrWhiteSpace(subStr))
+                    builder.Append($"{subStr} ");
 				}
 			}
             writer.WriteLine(builder.ToString());

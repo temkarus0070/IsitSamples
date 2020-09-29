@@ -1,7 +1,6 @@
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\Second\bin\Debug\Second.dll
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\Second\bin\Debug\Second.pdb
-C:\Users\termi\source\repos\c#\vsu\isit\Samples\Second\obj\Debug\Second.FormForSecondTask.resources
-C:\Users\termi\source\repos\c#\vsu\isit\Samples\Second\obj\Debug\Second.csproj.GenerateResource.cache
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\Second\obj\Debug\Second.dll
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\Second\obj\Debug\Second.pdb
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Second\obj\Debug\Second.csprojAssemblyReference.cache

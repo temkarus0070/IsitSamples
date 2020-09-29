@@ -9,6 +9,7 @@
 using System;
 using System.Drawing;
 using System.Windows.Forms;
+using Second;
 
 namespace Second
 {
@@ -41,7 +42,7 @@ namespace Second
 		{
 			saveFileDialog1.ShowDialog();
             if (saveFileDialog1.FileName != "")
-                Second.StringWorker.FileRewriter(path, saveFileDialog1.FileName);
+                StringWorker.FileRewriter(path, saveFileDialog1.FileName);
 		}
 	}
 }

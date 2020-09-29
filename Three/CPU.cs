@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Three
 {
-    class CPU
+    public class CPU
     {
         public string CpuModel { get; set; }
         public double CpuSpeed { get; set; }

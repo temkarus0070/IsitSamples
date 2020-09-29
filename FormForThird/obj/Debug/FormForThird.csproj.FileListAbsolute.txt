@@ -1,0 +1,9 @@
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForThird\obj\Debug\FormForThird.csprojAssemblyReference.cache
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForThird\obj\Debug\FormForThird.csproj.CoreCompileInputs.cache
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForThird\bin\Debug\FormForThird.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForThird\bin\Debug\FormForThird.pdb
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForThird\bin\Debug\Three.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForThird\bin\Debug\Three.pdb
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForThird\obj\Debug\FormForThird.csproj.CopyComplete
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForThird\obj\Debug\FormForThird.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForThird\obj\Debug\FormForThird.pdb

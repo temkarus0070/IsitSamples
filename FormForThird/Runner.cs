@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Three;
 
 namespace Three
 {
@@ -44,15 +45,23 @@ namespace Three
                         return;
                     case 1:
                         computer.TurnOn();
+                        if(computer.IsTurnOn)
+                            Console.WriteLine("Я включился");
                         break;
                     case 2:
                         computer.TurnOff();
+                        if(computer.IsTurnOn == false)
+                            Console.WriteLine("Я выключился");
                         break;
                     case 3:
                         computer.CheckViruses();
+                        if(computer.VirusesCount ==0)
+                            Console.WriteLine("Всё хорошо");
+                        else
+                            Console.WriteLine($"найдено {computer.VirusesCount} вирусов");
                         break;
                     case 4:
-                        computer.PrintHddSize();
+                        Console.WriteLine(computer.GetHddSize());
                         break;
 
 

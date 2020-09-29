@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Fourth
 {
-    class SatelitePlate
+    public class SatelitePlate
     {
         private double D;
 
@@ -24,6 +24,11 @@ namespace Fourth
         public virtual double Q()
         {
             return D / Price;
+        }
+
+        public double GetQ()
+        {
+            return Q();
         }
     }
 }

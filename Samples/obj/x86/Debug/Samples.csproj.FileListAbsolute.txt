@@ -50,3 +50,9 @@ C:\Users\termi\source\repos\c#\vsu\isit\Samples\Samples\bin\Debug\Three.dll
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\Samples\bin\Debug\Fourth.pdb
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\Samples\bin\Debug\Second.pdb
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\Samples\bin\Debug\Three.pdb
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Samples\bin\Debug\FormForFourth.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Samples\bin\Debug\FormForSecondTask.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Samples\bin\Debug\FormForThird.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Samples\bin\Debug\FormForFourth.pdb
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Samples\bin\Debug\FormForSecondTask.pdb
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\Samples\bin\Debug\FormForThird.pdb

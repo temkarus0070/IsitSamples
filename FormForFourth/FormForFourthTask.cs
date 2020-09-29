@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using Fourth;
 
 namespace Fourth
 {
@@ -21,7 +22,7 @@ namespace Fourth
             try
             {
                 SatelitePlate satelitePlate = new SatelitePlate(double.Parse(dFromSatelitePlateTextBox.Text),mFromSatelitePlateTextBox.Text,double.Parse(pFromSatelitePlateTextBox.Text));
-                MessageBox.Show(satelitePlate.Q().ToString());
+                MessageBox.Show(satelitePlate.GetQ().ToString());
             }
             catch(Exception ex)
             {

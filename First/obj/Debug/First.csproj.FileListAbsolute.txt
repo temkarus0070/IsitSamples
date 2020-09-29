@@ -1,6 +1,5 @@
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\First\bin\Debug\First.dll
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\First\bin\Debug\First.pdb
-C:\Users\termi\source\repos\c#\vsu\isit\Samples\First\obj\Debug\First.csprojAssemblyReference.cache
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\First\obj\Debug\First.csproj.CoreCompileInputs.cache
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\First\obj\Debug\First.dll
 C:\Users\termi\source\repos\c#\vsu\isit\Samples\First\obj\Debug\First.pdb

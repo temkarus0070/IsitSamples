@@ -1,0 +1,11 @@
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForSecondTask\obj\Debug\FormForSecondTask.csprojAssemblyReference.cache
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForSecondTask\obj\Debug\Second.FormForSecondTask.resources
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForSecondTask\obj\Debug\FormForSecondTask.csproj.GenerateResource.cache
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForSecondTask\obj\Debug\FormForSecondTask.csproj.CoreCompileInputs.cache
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForSecondTask\bin\Debug\FormForSecondTask.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForSecondTask\bin\Debug\FormForSecondTask.pdb
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForSecondTask\bin\Debug\Second.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForSecondTask\bin\Debug\Second.pdb
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForSecondTask\obj\Debug\FormForSecondTask.csproj.CopyComplete
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForSecondTask\obj\Debug\FormForSecondTask.dll
+C:\Users\termi\source\repos\c#\vsu\isit\Samples\FormForSecondTask\obj\Debug\FormForSecondTask.pdb

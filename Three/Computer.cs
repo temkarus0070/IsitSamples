@@ -6,25 +6,27 @@ using System.Threading.Tasks;
 
 namespace Three
 {
-    class Computer
+    public class Computer
     {
-        private bool IsTurnOn
+        public bool IsTurnOn
         {
-            get; set;
+             get;  set;
         }
 
         public HDD Hdd
         {
-            get; set;
+            get;  set;
         }
-        public RAM Ram
+
+        public int VirusesCount
         {
-            get; set;
+            get;set;
         }
+        public RAM Ram {get;  set;}
 
         public CPU Cpu
         {
-            get; set;
+             get;  set;
         }
 
         public GPU Gpu
@@ -37,7 +39,7 @@ namespace Three
             if (!IsTurnOn)
             {
                 IsTurnOn = true;
-                Console.WriteLine("Я включился");
+               
             }
             else
                 TurnOff();
@@ -47,19 +49,19 @@ namespace Three
         {
             if (IsTurnOn)
             {
-                Console.WriteLine("Я выключился");
+              
                 IsTurnOn = false;
             }
         }
 
         public void CheckViruses()
         {
-            Console.WriteLine("Всё хорошо");
+            VirusesCount = 0;
         }
 
-        public void PrintHddSize()
+        public string GetHddSize()
         {
-            Console.WriteLine("Объём жесткого диска = {0}", Hdd.Size);
+            return String.Format("Объём жесткого диска = {0}", Hdd.Size);
         }
 
 

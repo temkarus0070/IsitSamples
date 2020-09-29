@@ -87,6 +87,18 @@
       <Project>{bd8c8cbb-c497-4d44-afc5-cade89e92041}</Project>
       <Name>First</Name>
     </ProjectReference>
+    <ProjectReference Include="..\FormForFourth\FormForFourth.csproj">
+      <Project>{304b5634-7c6e-4e24-ae93-232acb35bd22}</Project>
+      <Name>FormForFourth</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FormForSecondTask\FormForSecondTask.csproj">
+      <Project>{9ce6c620-711e-4a9f-bd25-62b55fd5592d}</Project>
+      <Name>FormForSecondTask</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FormForThird\FormForThird.csproj">
+      <Project>{05dd55de-69f0-4929-b301-890c9f68e83d}</Project>
+      <Name>FormForThird</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Fourth\Fourth.csproj">
       <Project>{8ae3542e-973c-4514-b829-aa7c2d294783}</Project>
       <Name>Fourth</Name>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Three
 {
-    class HDD
+   public class HDD
     {
         public long Size { get; set; }
         public string Vendor { get; set; }

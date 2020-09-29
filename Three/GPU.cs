@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Three
 {
-    class GPU
+   public  class GPU
     {
         public long MemorySize { get; set; }
         public string Vendor { get; set; }

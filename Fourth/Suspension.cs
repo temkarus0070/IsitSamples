@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Fourth
 {
-    class SatelitePlateWithSuspension : SatelitePlate
+   public class SatelitePlateWithSuspension : SatelitePlate
     {
         private SuspensionType P;
 

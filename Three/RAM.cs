@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Three
 {
-    class RAM
+    public class RAM
     {
         public long Size { get; set; }
         public string Vendor { get; set; }
