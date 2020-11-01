@@ -7,6 +7,7 @@
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
@@ -15,12 +16,27 @@ namespace Second
 	/// <summary>
 	/// Description of StringWorker.
 	/// </summary>
-	public static class StringWorker
+    /// 
+
+        //repair
+
+	public class StringWorker
 	{
-		public static void FileRewriter(string filePath,string outputPath)
+        public string FilePath { get; set; }
+        public string Output { get; set; }
+
+        public StringWorker(string filePath, string outputPath)
+        {
+            this.FilePath = filePath;
+            this.Output = outputPath;
+        }
+
+
+
+		public  void FileRewrite()
 		{
-			var writer = new StreamWriter(outputPath);
-			var reader = new StreamReader(filePath);
+            var writer = new StreamWriter(Output);
+			var reader = new StreamReader(FilePath);
 			var str = reader.ReadToEnd().Split(new char[]{'\n'});
             var builder = new StringBuilder();
 			foreach(var fileString in str)

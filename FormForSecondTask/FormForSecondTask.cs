@@ -42,7 +42,10 @@ namespace Second
 		{
 			saveFileDialog1.ShowDialog();
             if (saveFileDialog1.FileName != "")
-                StringWorker.FileRewriter(path, saveFileDialog1.FileName);
+            {
+                StringWorker worker = new StringWorker(path, saveFileDialog1.FileName);
+                worker.FileRewrite();
+            }
 		}
 	}
 }
